@@ -13,4 +13,4 @@ console.log(10 + 1);
 console.log(10 + '1');
 console.log(10 - '1');
 console.log(10 * '1');
-console.log(10 - 'Um');
+console.log(10 - 'Um'); //NaN Not a Number
