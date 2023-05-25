@@ -1,1 +1,1 @@
-console.log(soma);
+comeceAqui(nome, area);
