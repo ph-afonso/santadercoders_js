@@ -1,1 +1,1 @@
-comeceAqui(nome, area);
+idade
